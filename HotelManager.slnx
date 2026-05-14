@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="HotelManager.Data/HotelManager.Data.csproj" />
+  <Project Path="HotelManager.Models/HotelManager.Models.csproj" />
+  <Project Path="HotelManager.ViewModels/HotelManager.ViewModels.csproj" />
+  <Project Path="HotelManager.WinForms/HotelManager.WinForms.csproj" />
+  <Project Path="HotelManager.WPF/HotelManager.WPF.csproj" />
+</Solution>

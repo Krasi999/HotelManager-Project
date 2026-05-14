@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\C# projects\HotelManager\HotelManager.Data\bin\Debug\net10.0\HotelManager.Data.deps.json
+C:\Users\Admin\Desktop\C# projects\HotelManager\HotelManager.Data\bin\Debug\net10.0\HotelManager.Data.runtimeconfig.json
+C:\Users\Admin\Desktop\C# projects\HotelManager\HotelManager.Data\bin\Debug\net10.0\HotelManager.Data.dll
+C:\Users\Admin\Desktop\C# projects\HotelManager\HotelManager.Data\bin\Debug\net10.0\HotelManager.Data.pdb
+C:\Users\Admin\Desktop\C# projects\HotelManager\HotelManager.Data\bin\Debug\net10.0\HotelManager.Models.dll
+C:\Users\Admin\Desktop\C# projects\HotelManager\HotelManager.Data\bin\Debug\net10.0\HotelManager.Models.pdb
+C:\Users\Admin\Desktop\C# projects\HotelManager\HotelManager.Data\obj\Debug\net10.0\HotelManager.Data.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C# projects\HotelManager\HotelManager.Data\obj\Debug\net10.0\HotelManager.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# projects\HotelManager\HotelManager.Data\obj\Debug\net10.0\HotelManager.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# projects\HotelManager\HotelManager.Data\obj\Debug\net10.0\HotelManager.Data.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# projects\HotelManager\HotelManager.Data\obj\Debug\net10.0\HotelManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# projects\HotelManager\HotelManager.Data\obj\Debug\net10.0\HotelMan.C60B6860.Up2Date
+C:\Users\Admin\Desktop\C# projects\HotelManager\HotelManager.Data\obj\Debug\net10.0\HotelManager.Data.dll
+C:\Users\Admin\Desktop\C# projects\HotelManager\HotelManager.Data\obj\Debug\net10.0\refint\HotelManager.Data.dll
+C:\Users\Admin\Desktop\C# projects\HotelManager\HotelManager.Data\obj\Debug\net10.0\HotelManager.Data.pdb
+C:\Users\Admin\Desktop\C# projects\HotelManager\HotelManager.Data\obj\Debug\net10.0\HotelManager.Data.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# projects\HotelManager\HotelManager.Data\obj\Debug\net10.0\ref\HotelManager.Data.dll

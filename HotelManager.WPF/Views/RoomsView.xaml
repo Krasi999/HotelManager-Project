@@ -1,0 +1,247 @@
+﻿<UserControl x:Class="HotelManager.WPF.Views.RoomsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             Loaded="UserControl_Loaded"
+             Background="Transparent">
+
+    <Grid Margin="24">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="340"/>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Border Grid.Column="0" Style="{StaticResource GlassCardStyle}">
+            <ScrollViewer VerticalScrollBarVisibility="Auto"
+                          HorizontalScrollBarVisibility="Disabled">
+                <StackPanel Margin="0,0,8,0">
+
+                    <StackPanel Orientation="Horizontal"
+                                Margin="0,0,0,16">
+                        <Border Background="Transparent"
+                                CornerRadius="8"
+                                Width="40" Height="40"
+                                Margin="0,0,12,0">
+                            <TextBlock Text="🛏" FontSize="20"
+                                       HorizontalAlignment="Center"
+                                       VerticalAlignment="Center"/>
+                        </Border>
+                        <StackPanel VerticalAlignment="Center">
+                            <TextBlock x:Name="lblFormTitle"
+                                       Text="Детайли за стая"
+                                       FontSize="16"
+                                       FontWeight="Bold"
+                                       Foreground="#1A252F"/>
+                            <TextBlock x:Name="lblFormSubtitle"
+                                       Text="Добави или редактирай стая"
+                                       FontSize="11"
+                                       Foreground="#483D8B"/>
+                        </StackPanel>
+                    </StackPanel>
+
+                    <Border Height="1" Background="#F0F4F8"
+                            Margin="0,0,0,16"/>
+
+                    <TextBlock x:Name="lblNumber"
+                               Text="Номер на стая"
+                               Foreground="Blue"
+                               Style="{StaticResource SubTitle}"/>
+                    <TextBox Text="{Binding Number,
+                                   UpdateSourceTrigger=PropertyChanged}"
+                             Margin="0,0,0,12"/>
+
+                    <TextBlock x:Name="lblType"
+                               Text="Тип стая"
+                               Foreground="Blue"
+                               Style="{StaticResource SubTitle}"/>
+                    <ComboBox SelectedValue="{Binding Type}"
+          SelectedValuePath="Tag"
+          Margin="0,0,0,14">
+                        <ComboBoxItem x:Name="cmbSingle"
+                  Content="Единична" Tag="Single"/>
+                        <ComboBoxItem x:Name="cmbDouble"
+                  Content="Двойна"   Tag="Double"/>
+                        <ComboBoxItem x:Name="cmbSuite"
+                  Content="Студио"   Tag="Suite"/>
+                        <ComboBoxItem x:Name="cmbApartment"
+                  Content="Апартамент" Tag="Apartment"/>
+                    </ComboBox>
+                    <Grid Margin="0,0,0,12">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="12"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0">
+                            <TextBlock x:Name="lblPrice"
+                                       Text="Цена (евро/нощ)"
+                                       Foreground="Blue"
+                                       Style="{StaticResource SubTitle}"/>
+                            <TextBox Text="{Binding PricePerNight,
+                                           UpdateSourceTrigger=PropertyChanged}"/>
+                        </StackPanel>
+                        <StackPanel Grid.Column="2">
+                            <TextBlock x:Name="lblCapacity"
+                                       Text="Капацитет"
+                                       Foreground="Blue"
+                                       Style="{StaticResource SubTitle}"/>
+                            <TextBox Text="{Binding Capacity,
+                                           UpdateSourceTrigger=PropertyChanged}"/>
+                        </StackPanel>
+                    </Grid>
+
+                    <TextBlock x:Name="lblDesc"
+                               Text="Описание"
+                               Foreground="Blue"
+                               Style="{StaticResource SubTitle}"/>
+                    <TextBox Text="{Binding Description,
+                                   UpdateSourceTrigger=PropertyChanged}"
+                             Height="70" TextWrapping="Wrap"
+                             AcceptsReturn="True"
+                             Margin="0,0,0,12" TextChanged="TextBox_TextChanged"/>
+
+                    <CheckBox x:Name="chkAvailable"
+                              Content="Стаята е свободна"
+                              IsChecked="{Binding IsAvailable}"
+                              Margin="0,0,0,20" FontSize="13"/>
+
+                    <UniformGrid Columns="2" Margin="0,0,0,8">
+                        <Button x:Name="btnAdd"
+                                Content="➕  Добави"
+                                Style="{StaticResource SuccessButton}"
+                                Command="{Binding AddCommand}"
+                                Margin="0,0,6,0"/>
+                        <Button x:Name="btnUpdate"
+                                Content="✏️  Обнови"
+                                Style="{StaticResource PrimaryButton}"
+                                Command="{Binding UpdateCommand}"
+                                Margin="6,0,0,0"/>
+                    </UniformGrid>
+                    <UniformGrid Columns="2">
+                        <Button x:Name="btnDelete"
+                                Content="🗑️  Изтрий"
+                                Style="{StaticResource DangerButton}"
+                                Command="{Binding DeleteCommand}"
+                                Margin="0,0,6,0"/>
+                        <Button x:Name="btnClear"
+                                Content="🔄  Нов запис"
+                                Style="{StaticResource PrimaryButton}"
+                                Command="{Binding ClearCommand}"
+                                Margin="6,0,0,0"/>
+                    </UniformGrid>
+
+                    <Border x:Name="StatusBorder"
+                            Background="#EAF6FF"
+                            CornerRadius="8"
+                            Padding="12,10"
+                            Margin="0,16,0,8"
+                            Visibility="{Binding StatusMessage,
+                                Converter={StaticResource
+                                    StringToVisibilityConverter}}">
+                        <StackPanel Orientation="Vertical">
+                            <StackPanel Orientation="Horizontal"
+                                        Margin="0,0,0,4">
+                                <TextBlock x:Name="StatusIcon"
+                                           Text="ℹ️"
+                                           FontSize="13"
+                                           Margin="0,0,6,0"/>
+                                <TextBlock x:Name="StatusIconLabel"
+                                           Text="Информация"
+                                           FontSize="12"
+                                           FontWeight="Bold"
+                                           Foreground="#1A6FA8"/>
+                            </StackPanel>
+                            <TextBlock x:Name="StatusText"
+                                       Text="{Binding StatusMessage}"
+                                       Foreground="#1A6FA8"
+                                       FontSize="12"
+                                       TextWrapping="Wrap"
+                                       LineHeight="18"/>
+                        </StackPanel>
+                    </Border>
+
+                </StackPanel>
+            </ScrollViewer>
+        </Border>
+
+
+        <Border Grid.Column="2" Style="{StaticResource GlassCardStyle}">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="0" Margin="0,0,0,12">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <StackPanel Grid.Column="0">
+                        <TextBlock x:Name="lblGridTitle"
+                                   Text="Списък на стаи"
+                                   FontSize="18" FontWeight="Bold"
+                                   Foreground="#1A252F"/>
+                        <TextBlock x:Name="lblGridSubtitle"
+                                   Text="Избери ред за редактиране"
+                                   FontSize="11" Foreground="#483D8B"/>
+                    </StackPanel>
+                    <Button Grid.Column="1"
+                            x:Name="btnLoad"
+                            Content="🔄  Зареди"
+                            Style="{StaticResource PrimaryButton}"
+                            Command="{Binding LoadCommand}"/>
+                </Grid>
+
+                <Border Grid.Row="1" Height="1"
+                        Background="#F0F4F8" Margin="0,0,0,12"/>
+
+                <DataGrid Grid.Row="2"
+          ItemsSource="{Binding LocalizedRooms}"
+          SelectedItem="{Binding SelectedLocalizedRoom,
+              Mode=TwoWay}"
+          AutoGenerateColumns="False"
+          CanUserAddRows="False"
+          CanUserDeleteRows="False"
+          IsReadOnly="True"
+          SelectionMode="Single"
+          GridLinesVisibility="Horizontal"
+          HorizontalGridLinesBrush="#33006994"
+          BorderThickness="0"
+          Background="Transparent"
+          RowBackground="Transparent"
+          FontSize="13"
+          RowHeight="36"
+          SelectionUnit="FullRow">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn x:Name="colNumber"
+            Header="Номер"
+            Binding="{Binding Number}"
+            Width="70"/>
+                        <DataGridTextColumn x:Name="colType"
+            Header="Тип"
+            Binding="{Binding Type}"
+            Width="90"/>
+                        <DataGridTextColumn x:Name="colPrice"
+            Header="Цена/нощ"
+            Binding="{Binding PricePerNight}"
+            Width="130"/>
+                        <DataGridTextColumn x:Name="colCap"
+            Header="Капацитет"
+            Binding="{Binding Capacity}"
+            Width="80"/>
+                        <DataGridTextColumn x:Name="colAvail"
+            Header="Свободна"
+            Binding="{Binding IsAvailable}"
+            Width="80"/>
+                        <DataGridTextColumn x:Name="colDesc"
+            Header="Описание"
+            Binding="{Binding Description}"
+            Width="*"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Grid>
+        </Border>
+    </Grid>
+</UserControl>

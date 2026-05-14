@@ -1,0 +1,1027 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.winforms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|solutionrelative:hotelmanager.winforms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|solutionrelative:hotelmanager.winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.winforms\\hotelmanager.winforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|solutionrelative:hotelmanager.winforms\\hotelmanager.winforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E94846-7E76-5BA5-6BA7-223964581A80}|HotelManager.ViewModels\\HotelManager.ViewModels.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.viewmodels\\roomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E94846-7E76-5BA5-6BA7-223964581A80}|HotelManager.ViewModels\\HotelManager.ViewModels.csproj|solutionrelative:hotelmanager.viewmodels\\roomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.winforms\\forms\\roomsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|solutionrelative:hotelmanager.winforms\\forms\\roomsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.winforms\\forms\\dynamicfilterform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|solutionrelative:hotelmanager.winforms\\forms\\dynamicfilterform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\hotelmanager.winforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|solutionrelative:hotelmanager.winforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.winforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|solutionrelative:hotelmanager.winforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.winforms\\system\\componentmodel\\bindingsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|solutionrelative:hotelmanager.winforms\\system\\componentmodel\\bindingsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.wpf\\views\\roomsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|solutionrelative:hotelmanager.wpf\\views\\roomsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.winforms\\forms\\dynamicfilterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|solutionrelative:hotelmanager.winforms\\forms\\dynamicfilterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.wpf\\views\\roomsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|solutionrelative:hotelmanager.wpf\\views\\roomsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.wpf\\views\\reservationsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|solutionrelative:hotelmanager.wpf\\views\\reservationsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|solutionrelative:hotelmanager.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|solutionrelative:hotelmanager.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.wpf\\views\\dynamicfilterview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|solutionrelative:hotelmanager.wpf\\views\\dynamicfilterview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E94846-7E76-5BA5-6BA7-223964581A80}|HotelManager.ViewModels\\HotelManager.ViewModels.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.viewmodels\\dynamiclistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E94846-7E76-5BA5-6BA7-223964581A80}|HotelManager.ViewModels\\HotelManager.ViewModels.csproj|solutionrelative:hotelmanager.viewmodels\\dynamiclistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E94846-7E76-5BA5-6BA7-223964581A80}|HotelManager.ViewModels\\HotelManager.ViewModels.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.viewmodels\\dynamicfilterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E94846-7E76-5BA5-6BA7-223964581A80}|HotelManager.ViewModels\\HotelManager.ViewModels.csproj|solutionrelative:hotelmanager.viewmodels\\dynamicfilterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E94846-7E76-5BA5-6BA7-223964581A80}|HotelManager.ViewModels\\HotelManager.ViewModels.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.viewmodels\\base\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E94846-7E76-5BA5-6BA7-223964581A80}|HotelManager.ViewModels\\HotelManager.ViewModels.csproj|solutionrelative:hotelmanager.viewmodels\\base\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.wpf\\converters\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|solutionrelative:hotelmanager.wpf\\converters\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.wpf\\converters\\controltypetovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|solutionrelative:hotelmanager.wpf\\converters\\controltypetovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E94846-7E76-5BA5-6BA7-223964581A80}|HotelManager.ViewModels\\HotelManager.ViewModels.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.viewmodels\\base\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E94846-7E76-5BA5-6BA7-223964581A80}|HotelManager.ViewModels\\HotelManager.ViewModels.csproj|solutionrelative:hotelmanager.viewmodels\\base\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C4E6E5-CA61-F053-D323-87EFCD1C6FBC}|HotelManager.Data\\HotelManager.Data.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.data\\sqliterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C4E6E5-CA61-F053-D323-87EFCD1C6FBC}|HotelManager.Data\\HotelManager.Data.csproj|solutionrelative:hotelmanager.data\\sqliterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C4E6E5-CA61-F053-D323-87EFCD1C6FBC}|HotelManager.Data\\HotelManager.Data.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.data\\sqlserverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C4E6E5-CA61-F053-D323-87EFCD1C6FBC}|HotelManager.Data\\HotelManager.Data.csproj|solutionrelative:hotelmanager.data\\sqlserverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C4E6E5-CA61-F053-D323-87EFCD1C6FBC}|HotelManager.Data\\HotelManager.Data.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.data\\repositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C4E6E5-CA61-F053-D323-87EFCD1C6FBC}|HotelManager.Data\\HotelManager.Data.csproj|solutionrelative:hotelmanager.data\\repositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C4E6E5-CA61-F053-D323-87EFCD1C6FBC}|HotelManager.Data\\HotelManager.Data.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.data\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C4E6E5-CA61-F053-D323-87EFCD1C6FBC}|HotelManager.Data\\HotelManager.Data.csproj|solutionrelative:hotelmanager.data\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70073EB2-D8AC-1A73-B9D2-0CE9B924E220}|HotelManager.Models\\HotelManager.Models.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70073EB2-D8AC-1A73-B9D2-0CE9B924E220}|HotelManager.Models\\HotelManager.Models.csproj|solutionrelative:hotelmanager.models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70073EB2-D8AC-1A73-B9D2-0CE9B924E220}|HotelManager.Models\\HotelManager.Models.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70073EB2-D8AC-1A73-B9D2-0CE9B924E220}|HotelManager.Models\\HotelManager.Models.csproj|solutionrelative:hotelmanager.models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70073EB2-D8AC-1A73-B9D2-0CE9B924E220}|HotelManager.Models\\HotelManager.Models.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70073EB2-D8AC-1A73-B9D2-0CE9B924E220}|HotelManager.Models\\HotelManager.Models.csproj|solutionrelative:hotelmanager.models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70073EB2-D8AC-1A73-B9D2-0CE9B924E220}|HotelManager.Models\\HotelManager.Models.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70073EB2-D8AC-1A73-B9D2-0CE9B924E220}|HotelManager.Models\\HotelManager.Models.csproj|solutionrelative:hotelmanager.models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C4E6E5-CA61-F053-D323-87EFCD1C6FBC}|HotelManager.Data\\HotelManager.Data.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.data\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C4E6E5-CA61-F053-D323-87EFCD1C6FBC}|HotelManager.Data\\HotelManager.Data.csproj|solutionrelative:hotelmanager.data\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|solutionrelative:hotelmanager.wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|solutionrelative:hotelmanager.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|solutionrelative:hotelmanager.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.wpf\\views\\dynamiclistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|solutionrelative:hotelmanager.wpf\\views\\dynamiclistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.wpf\\views\\guestview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|solutionrelative:hotelmanager.wpf\\views\\guestview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.wpf\\views\\reservationsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|solutionrelative:hotelmanager.wpf\\views\\reservationsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.wpf\\views\\guestview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|solutionrelative:hotelmanager.wpf\\views\\guestview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.wpf\\views\\dynamiclistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|solutionrelative:hotelmanager.wpf\\views\\dynamiclistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.wpf\\views\\dynamicfilterview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|solutionrelative:hotelmanager.wpf\\views\\dynamicfilterview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E94846-7E76-5BA5-6BA7-223964581A80}|HotelManager.ViewModels\\HotelManager.ViewModels.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.viewmodels\\reservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E94846-7E76-5BA5-6BA7-223964581A80}|HotelManager.ViewModels\\HotelManager.ViewModels.csproj|solutionrelative:hotelmanager.viewmodels\\reservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E94846-7E76-5BA5-6BA7-223964581A80}|HotelManager.ViewModels\\HotelManager.ViewModels.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.viewmodels\\guestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E94846-7E76-5BA5-6BA7-223964581A80}|HotelManager.ViewModels\\HotelManager.ViewModels.csproj|solutionrelative:hotelmanager.viewmodels\\guestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E94846-7E76-5BA5-6BA7-223964581A80}|HotelManager.ViewModels\\HotelManager.ViewModels.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.viewmodels\\localization\\translator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E94846-7E76-5BA5-6BA7-223964581A80}|HotelManager.ViewModels\\HotelManager.ViewModels.csproj|solutionrelative:hotelmanager.viewmodels\\localization\\translator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E94846-7E76-5BA5-6BA7-223964581A80}|HotelManager.ViewModels\\HotelManager.ViewModels.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.viewmodels\\localization\\localizedroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E94846-7E76-5BA5-6BA7-223964581A80}|HotelManager.ViewModels\\HotelManager.ViewModels.csproj|solutionrelative:hotelmanager.viewmodels\\localization\\localizedroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E94846-7E76-5BA5-6BA7-223964581A80}|HotelManager.ViewModels\\HotelManager.ViewModels.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.viewmodels\\localization\\localizedreservations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E94846-7E76-5BA5-6BA7-223964581A80}|HotelManager.ViewModels\\HotelManager.ViewModels.csproj|solutionrelative:hotelmanager.viewmodels\\localization\\localizedreservations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E94846-7E76-5BA5-6BA7-223964581A80}|HotelManager.ViewModels\\HotelManager.ViewModels.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.viewmodels\\localization\\localizedguest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E94846-7E76-5BA5-6BA7-223964581A80}|HotelManager.ViewModels\\HotelManager.ViewModels.csproj|solutionrelative:hotelmanager.viewmodels\\localization\\localizedguest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E94846-7E76-5BA5-6BA7-223964581A80}|HotelManager.ViewModels\\HotelManager.ViewModels.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.viewmodels\\hotelmanager.viewmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31E94846-7E76-5BA5-6BA7-223964581A80}|HotelManager.ViewModels\\HotelManager.ViewModels.csproj|solutionrelative:hotelmanager.viewmodels\\hotelmanager.viewmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8D2D93-9CB1-4EF0-9420-2B853535F0F9}|HotelManager.WinForms\\HotelManager.WinForms.csproj|C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\hotelmanager.winforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA8D2D93-9CB1-4EF0-9420-2B853535F0F9}|HotelManager.WinForms\\HotelManager.WinForms.csproj|solutionrelative:hotelmanager.winforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.wpf\\hotelmanager.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F03B69D-A690-A1C3-77E0-0FE09F39D56B}|HotelManager.WPF\\HotelManager.WPF.csproj|solutionrelative:hotelmanager.wpf\\hotelmanager.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\ba71154a7b44d057354e94bf9136ff00912660e0c8e1435d76b141387af3b90b\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\obj\\Debug\\net10.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HotelManager.WPF\\obj\\Debug\\net10.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8D2D93-9CB1-4EF0-9420-2B853535F0F9}|HotelManager.WinForms\\HotelManager.WinForms.csproj|C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\hotelmanager.winforms\\forms\\roomsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA8D2D93-9CB1-4EF0-9420-2B853535F0F9}|HotelManager.WinForms\\HotelManager.WinForms.csproj|solutionrelative:hotelmanager.winforms\\forms\\roomsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.winforms\\forms\\dynamiclistform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|solutionrelative:hotelmanager.winforms\\forms\\dynamiclistform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.winforms\\forms\\dynamiclistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|solutionrelative:hotelmanager.winforms\\forms\\dynamiclistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.winforms\\forms\\dynamicfilterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|solutionrelative:hotelmanager.winforms\\forms\\dynamicfilterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.winforms\\forms\\reservationsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|solutionrelative:hotelmanager.winforms\\forms\\reservationsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.winforms\\forms\\reservationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|solutionrelative:hotelmanager.winforms\\forms\\reservationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.winforms\\forms\\roomsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|solutionrelative:hotelmanager.winforms\\forms\\roomsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.winforms\\forms\\guestsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|solutionrelative:hotelmanager.winforms\\forms\\guestsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.winforms\\forms\\guestsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|solutionrelative:hotelmanager.winforms\\forms\\guestsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|c:\\users\\admin\\desktop\\c# projects\\hotelmanager\\hotelmanager.winforms\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{75195934-30D1-8F43-49E7-DBCBBCE5466E}|HotelManager.WinForms\\HotelManager.WinForms.csproj|solutionrelative:hotelmanager.winforms\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HotelManager.WPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\MainWindow.xaml",
+              "RelativeToolTip": "HotelManager.WPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-06T10:18:45.721Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HotelManager.WinForms.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\HotelManager.WinForms.csproj",
+              "RelativeDocumentMoniker": "HotelManager.WinForms\\HotelManager.WinForms.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\HotelManager.WinForms.csproj",
+              "RelativeToolTip": "HotelManager.WinForms\\HotelManager.WinForms.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-14T12:30:55.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Program.cs",
+              "RelativeDocumentMoniker": "HotelManager.WinForms\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Program.cs",
+              "RelativeToolTip": "HotelManager.WinForms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:17:34.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManager.WinForms\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\MainForm.Designer.cs",
+              "RelativeToolTip": "HotelManager.WinForms\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:18:11.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.ViewModels\\RoomViewModel.cs",
+              "RelativeDocumentMoniker": "HotelManager.ViewModels\\RoomViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.ViewModels\\RoomViewModel.cs",
+              "RelativeToolTip": "HotelManager.ViewModels\\RoomViewModel.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAQwAQBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:16:00.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Forms\\RoomsForm.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManager.WinForms\\Forms\\RoomsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Forms\\RoomsForm.Designer.cs",
+              "RelativeToolTip": "HotelManager.WinForms\\Forms\\RoomsForm.Designer.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:31:53.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DynamicFilterForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Forms\\DynamicFilterForm.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManager.WinForms\\Forms\\DynamicFilterForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Forms\\DynamicFilterForm.Designer.cs",
+              "RelativeToolTip": "HotelManager.WinForms\\Forms\\DynamicFilterForm.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAKsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:38:06.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\MainForm.cs",
+              "RelativeDocumentMoniker": "HotelManager.WinForms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\MainForm.cs [Design]",
+              "RelativeToolTip": "HotelManager.WinForms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:38:11.857Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\MainForm.cs",
+              "RelativeDocumentMoniker": "HotelManager.WinForms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\MainForm.cs",
+              "RelativeToolTip": "HotelManager.WinForms\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:18:02.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BindingSource.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\System\\ComponentModel\\BindingSource.cs",
+              "RelativeDocumentMoniker": "HotelManager.WinForms\\System\\ComponentModel\\BindingSource.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\System\\ComponentModel\\BindingSource.cs",
+              "RelativeToolTip": "HotelManager.WinForms\\System\\ComponentModel\\BindingSource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:27:51.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoomsView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\Views\\RoomsView.xaml",
+              "RelativeDocumentMoniker": "HotelManager.WPF\\Views\\RoomsView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\Views\\RoomsView.xaml",
+              "RelativeToolTip": "HotelManager.WPF\\Views\\RoomsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-06T12:41:51.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DynamicFilterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Forms\\DynamicFilterForm.cs",
+              "RelativeDocumentMoniker": "HotelManager.WinForms\\Forms\\DynamicFilterForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Forms\\DynamicFilterForm.cs [Design]",
+              "RelativeToolTip": "HotelManager.WinForms\\Forms\\DynamicFilterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:27:29.792Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoomsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\Views\\RoomsView.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManager.WPF\\Views\\RoomsView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\Views\\RoomsView.xaml.cs",
+              "RelativeToolTip": "HotelManager.WPF\\Views\\RoomsView.xaml.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:42:37.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReservationsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\Views\\ReservationsView.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManager.WPF\\Views\\ReservationsView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\Views\\ReservationsView.xaml.cs",
+              "RelativeToolTip": "HotelManager.WPF\\Views\\ReservationsView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:48:24.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManager.WPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HotelManager.WPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAwwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T10:18:44.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManager.WPF\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\App.xaml.cs",
+              "RelativeToolTip": "HotelManager.WPF\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:36:19.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DynamicFilterView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\Views\\DynamicFilterView.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManager.WPF\\Views\\DynamicFilterView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\Views\\DynamicFilterView.xaml.cs",
+              "RelativeToolTip": "HotelManager.WPF\\Views\\DynamicFilterView.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:50:15.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DynamicListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.ViewModels\\DynamicListViewModel.cs",
+              "RelativeDocumentMoniker": "HotelManager.ViewModels\\DynamicListViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.ViewModels\\DynamicListViewModel.cs",
+              "RelativeToolTip": "HotelManager.ViewModels\\DynamicListViewModel.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAQwK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:18:33.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DynamicFilterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.ViewModels\\DynamicFilterViewModel.cs",
+              "RelativeDocumentMoniker": "HotelManager.ViewModels\\DynamicFilterViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.ViewModels\\DynamicFilterViewModel.cs",
+              "RelativeToolTip": "HotelManager.ViewModels\\DynamicFilterViewModel.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:18:04.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.ViewModels\\Base\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "HotelManager.ViewModels\\Base\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.ViewModels\\Base\\ViewModelBase.cs",
+              "RelativeToolTip": "HotelManager.ViewModels\\Base\\ViewModelBase.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:15:00.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StringToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\Converters\\StringToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "HotelManager.WPF\\Converters\\StringToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\Converters\\StringToVisibilityConverter.cs",
+              "RelativeToolTip": "HotelManager.WPF\\Converters\\StringToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:16:53.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ControlTypeToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\Converters\\ControlTypeToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "HotelManager.WPF\\Converters\\ControlTypeToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\Converters\\ControlTypeToVisibilityConverter.cs",
+              "RelativeToolTip": "HotelManager.WPF\\Converters\\ControlTypeToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:17:51.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.ViewModels\\Base\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "HotelManager.ViewModels\\Base\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.ViewModels\\Base\\RelayCommand.cs",
+              "RelativeToolTip": "HotelManager.ViewModels\\Base\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:15:27.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SQLiteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.Data\\SQLiteRepository.cs",
+              "RelativeDocumentMoniker": "HotelManager.Data\\SQLiteRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.Data\\SQLiteRepository.cs",
+              "RelativeToolTip": "HotelManager.Data\\SQLiteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T10:42:57.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SqlServerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.Data\\SqlServerRepository.cs",
+              "RelativeDocumentMoniker": "HotelManager.Data\\SqlServerRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.Data\\SqlServerRepository.cs",
+              "RelativeToolTip": "HotelManager.Data\\SqlServerRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T10:43:24.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RepositoryFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.Data\\RepositoryFactory.cs",
+              "RelativeDocumentMoniker": "HotelManager.Data\\RepositoryFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.Data\\RepositoryFactory.cs",
+              "RelativeToolTip": "HotelManager.Data\\RepositoryFactory.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T10:44:09.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HotelDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.Data\\HotelDbContext.cs",
+              "RelativeDocumentMoniker": "HotelManager.Data\\HotelDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.Data\\HotelDbContext.cs",
+              "RelativeToolTip": "HotelManager.Data\\HotelDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T10:42:32.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.Models\\IRepository.cs",
+              "RelativeDocumentMoniker": "HotelManager.Models\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.Models\\IRepository.cs",
+              "RelativeToolTip": "HotelManager.Models\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T10:40:40.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.Models\\Room.cs",
+              "RelativeDocumentMoniker": "HotelManager.Models\\Room.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.Models\\Room.cs",
+              "RelativeToolTip": "HotelManager.Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T10:39:38.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "HotelManager.Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.Models\\Reservation.cs",
+              "RelativeToolTip": "HotelManager.Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T10:40:16.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.Models\\Guest.cs",
+              "RelativeDocumentMoniker": "HotelManager.Models\\Guest.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.Models\\Guest.cs",
+              "RelativeToolTip": "HotelManager.Models\\Guest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T10:39:57.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.Data\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "HotelManager.Data\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.Data\\BaseRepository.cs",
+              "RelativeToolTip": "HotelManager.Data\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:02:16.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "HotelManager.WPF\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\AssemblyInfo.cs",
+              "RelativeToolTip": "HotelManager.WPF\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:08:17.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\App.xaml",
+              "RelativeDocumentMoniker": "HotelManager.WPF\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\App.xaml",
+              "RelativeToolTip": "HotelManager.WPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-06T12:35:59.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DynamicListView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\Views\\DynamicListView.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManager.WPF\\Views\\DynamicListView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\Views\\DynamicListView.xaml.cs",
+              "RelativeToolTip": "HotelManager.WPF\\Views\\DynamicListView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:51:41.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GuestView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\Views\\GuestView.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManager.WPF\\Views\\GuestView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\Views\\GuestView.xaml.cs",
+              "RelativeToolTip": "HotelManager.WPF\\Views\\GuestView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:44:37.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ReservationsView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\Views\\ReservationsView.xaml",
+              "RelativeDocumentMoniker": "HotelManager.WPF\\Views\\ReservationsView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\Views\\ReservationsView.xaml",
+              "RelativeToolTip": "HotelManager.WPF\\Views\\ReservationsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-06T12:47:59.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GuestView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\Views\\GuestView.xaml",
+              "RelativeDocumentMoniker": "HotelManager.WPF\\Views\\GuestView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\Views\\GuestView.xaml",
+              "RelativeToolTip": "HotelManager.WPF\\Views\\GuestView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-06T12:44:13.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DynamicListView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\Views\\DynamicListView.xaml",
+              "RelativeDocumentMoniker": "HotelManager.WPF\\Views\\DynamicListView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\Views\\DynamicListView.xaml",
+              "RelativeToolTip": "HotelManager.WPF\\Views\\DynamicListView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-11T11:53:42.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DynamicFilterView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\Views\\DynamicFilterView.xaml",
+              "RelativeDocumentMoniker": "HotelManager.WPF\\Views\\DynamicFilterView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\Views\\DynamicFilterView.xaml",
+              "RelativeToolTip": "HotelManager.WPF\\Views\\DynamicFilterView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-11T11:50:52.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ReservationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.ViewModels\\ReservationViewModel.cs",
+              "RelativeDocumentMoniker": "HotelManager.ViewModels\\ReservationViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.ViewModels\\ReservationViewModel.cs",
+              "RelativeToolTip": "HotelManager.ViewModels\\ReservationViewModel.cs",
+              "ViewState": "AgIAAEsBAAAAAAAAAAAswOIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:17:16.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GuestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.ViewModels\\GuestViewModel.cs",
+              "RelativeDocumentMoniker": "HotelManager.ViewModels\\GuestViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.ViewModels\\GuestViewModel.cs",
+              "RelativeToolTip": "HotelManager.ViewModels\\GuestViewModel.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAAwLMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:16:39.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Translator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.ViewModels\\Localization\\Translator.cs",
+              "RelativeDocumentMoniker": "HotelManager.ViewModels\\Localization\\Translator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.ViewModels\\Localization\\Translator.cs",
+              "RelativeToolTip": "HotelManager.ViewModels\\Localization\\Translator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T07:05:36.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LocalizedRoom.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.ViewModels\\Localization\\LocalizedRoom.cs",
+              "RelativeDocumentMoniker": "HotelManager.ViewModels\\Localization\\LocalizedRoom.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.ViewModels\\Localization\\LocalizedRoom.cs",
+              "RelativeToolTip": "HotelManager.ViewModels\\Localization\\LocalizedRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T16:02:27.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LocalizedReservations.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.ViewModels\\Localization\\LocalizedReservations.cs",
+              "RelativeDocumentMoniker": "HotelManager.ViewModels\\Localization\\LocalizedReservations.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.ViewModels\\Localization\\LocalizedReservations.cs",
+              "RelativeToolTip": "HotelManager.ViewModels\\Localization\\LocalizedReservations.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T16:04:02.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LocalizedGuest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.ViewModels\\Localization\\LocalizedGuest.cs",
+              "RelativeDocumentMoniker": "HotelManager.ViewModels\\Localization\\LocalizedGuest.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.ViewModels\\Localization\\LocalizedGuest.cs",
+              "RelativeToolTip": "HotelManager.ViewModels\\Localization\\LocalizedGuest.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA8wE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T16:03:13.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "HotelManager.ViewModels.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.ViewModels\\HotelManager.ViewModels.csproj",
+              "RelativeDocumentMoniker": "HotelManager.ViewModels\\HotelManager.ViewModels.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.ViewModels\\HotelManager.ViewModels.csproj",
+              "RelativeToolTip": "HotelManager.ViewModels\\HotelManager.ViewModels.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-06T12:13:52.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\MainForm.cs",
+              "RelativeDocumentMoniker": "HotelManager.WinForms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\MainForm.cs [Design]",
+              "RelativeToolTip": "HotelManager.WinForms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T10:20:19.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "HotelManager.WPF.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\HotelManager.WPF.csproj",
+              "RelativeDocumentMoniker": "HotelManager.WPF\\HotelManager.WPF.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\HotelManager.WPF.csproj",
+              "RelativeToolTip": "HotelManager.WPF\\HotelManager.WPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-11T11:24:23.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\ba71154a7b44d057354e94bf9136ff00912660e0c8e1435d76b141387af3b90b\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ba71154a7b44d057354e94bf9136ff00912660e0c8e1435d76b141387af3b90b\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\ba71154a7b44d057354e94bf9136ff00912660e0c8e1435d76b141387af3b90b\\XamlReader.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ba71154a7b44d057354e94bf9136ff00912660e0c8e1435d76b141387af3b90b\\XamlReader.cs",
+              "ViewState": "AgIAAJMBAAAAAAAAAIBJwKgBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:21:38.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "App.g.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\obj\\Debug\\net10.0-windows\\App.g.cs",
+              "RelativeDocumentMoniker": "HotelManager.WPF\\obj\\Debug\\net10.0-windows\\App.g.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WPF\\obj\\Debug\\net10.0-windows\\App.g.cs",
+              "RelativeToolTip": "HotelManager.WPF\\obj\\Debug\\net10.0-windows\\App.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:11:13.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DynamicListForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Forms\\DynamicListForm.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManager.WinForms\\Forms\\DynamicListForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Forms\\DynamicListForm.Designer.cs",
+              "RelativeToolTip": "HotelManager.WinForms\\Forms\\DynamicListForm.Designer.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAQwJIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:39:39.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DynamicListForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Forms\\DynamicListForm.cs",
+              "RelativeDocumentMoniker": "HotelManager.WinForms\\Forms\\DynamicListForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Forms\\DynamicListForm.cs",
+              "RelativeToolTip": "HotelManager.WinForms\\Forms\\DynamicListForm.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAxwIQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:38:51.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DynamicFilterForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Forms\\DynamicFilterForm.cs",
+              "RelativeDocumentMoniker": "HotelManager.WinForms\\Forms\\DynamicFilterForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Forms\\DynamicFilterForm.cs",
+              "RelativeToolTip": "HotelManager.WinForms\\Forms\\DynamicFilterForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:37:11.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ReservationsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Forms\\ReservationsForm.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManager.WinForms\\Forms\\ReservationsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Forms\\ReservationsForm.Designer.cs",
+              "RelativeToolTip": "HotelManager.WinForms\\Forms\\ReservationsForm.Designer.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAQwLMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:36:10.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ReservationsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Forms\\ReservationsForm.cs",
+              "RelativeDocumentMoniker": "HotelManager.WinForms\\Forms\\ReservationsForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Forms\\ReservationsForm.cs",
+              "RelativeToolTip": "HotelManager.WinForms\\Forms\\ReservationsForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:35:12.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "RoomsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Forms\\RoomsForm.cs",
+              "RelativeDocumentMoniker": "HotelManager.WinForms\\Forms\\RoomsForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Forms\\RoomsForm.cs",
+              "RelativeToolTip": "HotelManager.WinForms\\Forms\\RoomsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:28:39.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "GuestsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Forms\\GuestsForm.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManager.WinForms\\Forms\\GuestsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Forms\\GuestsForm.Designer.cs",
+              "RelativeToolTip": "HotelManager.WinForms\\Forms\\GuestsForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:33:51.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "GuestsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Forms\\GuestsForm.cs",
+              "RelativeDocumentMoniker": "HotelManager.WinForms\\Forms\\GuestsForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Forms\\GuestsForm.cs",
+              "RelativeToolTip": "HotelManager.WinForms\\Forms\\GuestsForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:33:15.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RoomsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Forms\\RoomsForm.cs",
+              "RelativeDocumentMoniker": "HotelManager.WinForms\\Forms\\RoomsForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\Forms\\RoomsForm.cs [Design]",
+              "RelativeToolTip": "HotelManager.WinForms\\Forms\\RoomsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:32:15.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\MainForm.resx",
+              "RelativeDocumentMoniker": "HotelManager.WinForms\\MainForm.resx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\HotelManager\\HotelManager.WinForms\\MainForm.resx",
+              "RelativeToolTip": "HotelManager.WinForms\\MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-04-06T13:18:07.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
